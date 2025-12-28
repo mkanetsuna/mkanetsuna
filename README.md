@@ -6,9 +6,6 @@
 
 <div align="center">
 
-### 📈 Overview
-![GitHub Metrics](./metrics-header.svg)
-
 ### 💻 Most Used Languages
 ![Programming Languages](./metrics-languages.svg)
 
