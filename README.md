@@ -7,7 +7,7 @@
 ### 💻 Most Used Languages
 ![Programming Languages](./metrics-languages.svg)
 
-### 📅 Contribution Calendar
-![Isometric Commit Calendar](./metrics-calendar.svg)
+### 🎯 Recent OSS Contributions
+![Recent Activity](./metrics-activity.svg)
 
 </div>
