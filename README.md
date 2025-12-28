@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi there! 👋 I'm masaaya
-
 ## 📊 GitHub Statistics
 
 ### 💻 Most Used Languages
