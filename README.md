@@ -1,6 +1,6 @@
 <div align="center">
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 ![Programming Languages](./metrics-languages.svg)
 
