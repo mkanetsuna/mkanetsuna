@@ -56,6 +56,7 @@ jobs:
           plugin_notable_self: no
           repositories: 50
           repositories_batch: 5
+          repositories_skipped: CARookiesTraining/fresh25-team-c
           config_timezone: Asia/Tokyo
           config_display: large
           config_animations: yes
